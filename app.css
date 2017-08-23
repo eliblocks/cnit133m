@@ -1,0 +1,16 @@
+.pic {
+  float: left;
+  margin-right: 10px;
+
+}
+
+.tech {
+  margin: auto;
+
+  width: 15em;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
