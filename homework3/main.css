@@ -1,0 +1,35 @@
+.toy-card {
+  display: none;
+  margin-bottom: 1em;
+}
+
+.toys-btn {
+  width: 100%;
+}
+
+.toy-btn {
+  margin-bottom: 1em;
+  width: 100%;
+}
+
+.toys-container {
+  margin: 2em;
+}
+
+.toy-img {
+
+}
+
+.minus {
+  display: none;
+}
+
+
+.header-minus {
+  display: none;
+}
+
+
+
+
+
